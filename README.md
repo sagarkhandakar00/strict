@@ -1,0 +1,2 @@
+# strict
+pasd to html
